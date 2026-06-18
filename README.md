@@ -1,0 +1,1 @@
+# ckad-practice-exam-02
